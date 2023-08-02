@@ -1,0 +1,40 @@
+body {
+  margin: 50px 0 20px 30px;
+  background-color: #f6e1c3;
+}
+.one {
+  margin: 40px auto;
+}
+.menu {
+  width: 25px;
+  height: 3px;
+  background-color: black;
+  margin: 6px 0;
+}
+i {
+  background-color: #f6e1c3;
+  margin-top: 0%;
+  position: absolute;
+  right: 25px;
+  width: 50px;
+  height: 50px;
+}
+
+h1 {
+  margin: 3px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 800;
+}
+button {
+  margin: 5px 8px;
+  display: inline;
+}
+.amount {
+  display: inline;
+}
+.fa-regular {
+  position: absolute;
+  right: 30px;
+}
